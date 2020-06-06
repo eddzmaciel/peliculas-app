@@ -1,0 +1,27 @@
+
+
+To Do:
+- Create an movies app 
+- Use themoviedb.org API
+- Use router feature
+- Use router params 
+- Use bootstrap 4
+- Use the next structure:
+    - Navbar:
+        -Home Page
+            - New releases on the theater view
+            - Most popular movies view
+            - Most popular kids movies view
+                - When click on any movie, should you redirect to a new view 
+                for display the "Movie Details Page" (Date should put automatically)
+
+        - Search Page
+            - Search movies view
+            - Display the found  movies in a cards 
+            - When click on any movie, should you redirect to a new view 
+                for display the "Movie Details Page" (Date should put automatically)
+            - Movie Details Page
+                - Show a big movie poster 
+                - Show movie sinopsis
+                - Button to return to the back used page
+
